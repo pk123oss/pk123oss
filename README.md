@@ -1,6 +1,9 @@
 ## WELCOM to my profile ##
 
-📈 I will upload some machine learning and large model project codes here.  
-  If you need data sets or discussions, please contact me.
+📈 我将上传机器学习/大模型/数据处理的项目到这里
+以下是我做过的相关项目介绍：
+
+## 1.铁轨入侵物检测
+# 本项目旨在使用YOLO技术对复杂环境下铁轨进行像素级别的掩码识别
 
   1928635626@qq.com
